@@ -2,7 +2,7 @@
 # 2021-12-21
 # Andrew Miller
 
-setwd("/Users/andrew/Documents/Work & Volunteer/BME PhD/Jeyapalina Lab/01 - Lower_Limb_Implant_RNA_seq/03 - Explore/code")
+setwd("/Users/andrew/Documents/Work & Volunteer/BME PhD/Jeyapalina Lab/01 - Lower_Limb_Implant_RNA_seq/03 - Explore/code/nof1")
 
 ## Get Data
 
